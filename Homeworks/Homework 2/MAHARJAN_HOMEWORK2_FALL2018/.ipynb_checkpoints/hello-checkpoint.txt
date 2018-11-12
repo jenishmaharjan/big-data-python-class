@@ -1,2 +1,0 @@
-This is a hello.txt.
-Using this for file handling.
