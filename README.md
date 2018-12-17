@@ -1,3 +1,18 @@
+# About this Repository:
+Welcome to the Big Data Python Class repository. This repository consists the source code for the big data python class that I took in my Fall semester in 2018 at Villanova University. This has been forked from Prof. Paul Schragger's repository. This repository consists of all lectures provided by Prof Schragger and my final project and homework assignments.
+
+# Folder Structure
+1. Final Project - My final Project on Sentiment Analysis for Stock Market Prediction
+2. Homeworks - All my homework assignments are included in this directory
+3. Lectures - All lecture resources provided by professor
+4. Scipts - Scripts required to run most of the code in the repository.
+
+# Blog Link 
+I also have a blog for this same course - bigdatawithjenish.wordpress.com
+
+
+
+Professor Schragger's Original Read Me Contents:
 # big-data-python-class
 Source code for the big data python class
 
